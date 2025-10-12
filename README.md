@@ -22,14 +22,6 @@ A mini project that enables control of the mouse cursor using hand gestures via 
 
 ---
 
-## 🎬 Demo
-
-[![Watch the Demo]
-
-https://github.com/user-attachments/assets/a3be2044-474b-475e-b92d-5c1246a30d01
-
-
-
 
 ## 📦 Installation
 
