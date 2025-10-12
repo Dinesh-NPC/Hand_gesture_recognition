@@ -47,7 +47,6 @@ A mini project that enables control of the mouse cursor using hand gestures via 
 **T Dinesh Kumar**  
 B.Tech IT, Kumaraguru College of Technology  
 [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-kct)  
-[GitHub](https://github.com/Dinesh-NPC)
 
 ---
 
